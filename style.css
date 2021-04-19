@@ -1,0 +1,25 @@
+html{
+    font-size:62.5%;
+    padding: 2rem;
+    background-color: #000;
+    color:#fff;
+}
+
+h1{
+    font-size: 4rem;
+}
+h1.sans-serif{
+    font-family: sans-serif;
+}
+h1.segoe{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+h1.baloo{
+    font-family: 'Baloo Da 2', cursive;
+}
+h1.mulish{
+    font-family: 'Mulish', sans-serif;
+}
